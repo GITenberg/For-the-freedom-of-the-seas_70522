@@ -1,0 +1,40 @@
+_repo: For-the-freedom-of-the-seas_70522
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+creator:
+  author:
+    agent_name: Barbour, Ralph Henry
+    alias: Barbour, R. H. (Ralph Henry)
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '2067'
+    url: http://www.gutenberg.org/2009/agents/2067
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
+description: ''
+gutenberg_issued: '2023-04-10'
+identifiers:
+  gutenberg: '70522'
+  lccn: '18018956'
+language: en
+pgterms:marc905: 20180314171723barbour
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bD. Appleton and Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: For the freedom of the seas
+url: http://www.gutenberg.org/ebooks/70522
