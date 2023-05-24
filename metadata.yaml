@@ -7,6 +7,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '25468'
     url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 70522-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70522#For-the-freedom-of-the-seas
 gutenberg_issued: '2023-04-10'
 identifiers:
   gutenberg: '70522'
